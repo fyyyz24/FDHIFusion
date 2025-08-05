@@ -27,14 +27,14 @@ To address the identified challenges, we propose the **Frequency Domain High-ord
 
 ## :computer:Proposed method
 ***
-![framework](images\Framework.png)
+![framework](images/Framework.png)
 The proposed FDHIFusion framewframeork with two components: FSIM and GCIM.
 ***
 ## :triangular_flag_on_post:Comparison
 ***
 #### - Qualitative Results on M3FD
 
-![qualitative](images\Qualitative_results.png)
+![qualitative](images/Qualitative_results.png)
 
 #### - Quantitative results on M3FD
 
@@ -82,7 +82,7 @@ The proposed FDHIFusion framewframeork with two components: FSIM and GCIM.
 
 #### - Qualitative results on Analysis of the High-order Interaction modules.
 
-![Qualitative_Ablation](images\Qualitative_Ablation.png)
+![Qualitative_Ablation](images/Qualitative_Ablation.png)
 
 FSIM and GCIM represent individual interaction modules, respectively. The notation GCIM->FSIM indicates a serial structure with the order reversed.
 ***
