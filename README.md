@@ -15,13 +15,13 @@ To address the identified challenges, we propose the **Frequency Domain High-ord
 
 
 
-1.:globe_with_meridians:We introduce FDHIFusion, a network for infrared and visible image fusion, which explores **the high-order interactions among features** and fully exploits **the feature expression capability** of **frequency domain information**.
+1.🌏We introduce FDHIFusion, a network for infrared and visible image fusion, which explores **the high-order interactions among features** and fully exploits **the feature expression capability** of **frequency domain information**.
 
-2.:globe_with_meridians:We propose **a novel Frequency-Spatial Interaction Module (FSIM)** that thoroughly **extracts global information** from features in the frequency domain, **dynamically guiding feature aggregation** through a specialized attention module capable of perceiving long-range dependencies.
+2.🌏We propose **a novel Frequency-Spatial Interaction Module (FSIM)** that thoroughly **extracts global information** from features in the frequency domain, **dynamically guiding feature aggregation** through a specialized attention module capable of perceiving long-range dependencies.
 
-3.:globe_with_meridians:We implement **Gating Mechainism (GM)** to manage feature score allocation in channel interactions within the **Gate-Channel Interaction Module (GCIM)**, effectively **preventing the loss of positive features**.
+3.🌏We implement **Gating Mechainism (GM)** to manage feature score allocation in channel interactions within the **Gate-Channel Interaction Module (GCIM)**, effectively **preventing the loss of positive features**.
 
-4.:globe_with_meridians:Experiments on Infrared and Visible Image Fusion demonstrate our algorithm outperforms current state-of-the-art methods, excelling in producing fused images with fine textures, enhanced contrast, **better alignment with human visual perception**, **improved preservation of thermal information from source images**, and **excellent performance in downstream tasks**.
+4.🌏Experiments on Infrared and Visible Image Fusion demonstrate our algorithm outperforms current state-of-the-art methods, excelling in producing fused images with fine textures, enhanced contrast, **better alignment with human visual perception**, **improved preservation of thermal information from source images**, and **excellent performance in downstream tasks**.
 
 ***
 
